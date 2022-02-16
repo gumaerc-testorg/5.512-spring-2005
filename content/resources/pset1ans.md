@@ -2,8 +2,13 @@
 content_type: resource
 description: 'This resource contains the solutions to the problem set I: Review of
   Stereochemical Principles.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/5-512-synthetic-organic-chemistry-ii-spring-2005/a228aa26439ac2924abf7aed47881d13_pset1ans.pdf
+file: /media/courses/5-512-synthetic-organic-chemistry-ii-spring-2005/a228aa26439ac2924abf7aed47881d13_pset1ans.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: pset1ans.pdf
 uid: a228aa26-439a-c292-4abf-7aed47881d13
