@@ -11,6 +11,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 0fb1c4f7-7637-4160-6352-e8ba33dd92f0
 resourcetype: Document
 title: prob_set6_4_27_05.pdf
 uid: 2dcee277-a021-7a3d-7a2c-b864efe90919
