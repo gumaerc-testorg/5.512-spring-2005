@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: Syllabus covers the course texts and the grading criteria.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
