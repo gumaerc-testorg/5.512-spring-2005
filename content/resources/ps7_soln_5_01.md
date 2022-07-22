@@ -5,6 +5,7 @@ file: /courses/5-512-synthetic-organic-chemistry-ii-spring-2005/f3acea5bb1560456
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: ps7_soln_5_01.pdf
 uid: f3acea5b-b156-0456-120a-365e5f523b39
 ---
 This file contains the solutions to the problem set of the course.
-

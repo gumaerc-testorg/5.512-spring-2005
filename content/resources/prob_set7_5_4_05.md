@@ -8,6 +8,7 @@ file: /courses/5-512-synthetic-organic-chemistry-ii-spring-2005/d72b4e1ef314e7f3
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -18,4 +19,3 @@ uid: d72b4e1e-f314-e7f3-6d8b-f1457db8254a
 ---
 This assignment includes designing a highly stereoselective synthesis of the given target molecules beginning with commercially
 available materials.
-

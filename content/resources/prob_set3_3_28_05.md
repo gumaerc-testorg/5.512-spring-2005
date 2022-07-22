@@ -6,6 +6,7 @@ file: /courses/5-512-synthetic-organic-chemistry-ii-spring-2005/1edb0f97c4f0a154
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: prob_set3_3_28_05.pdf
 uid: 1edb0f97-c4f0-a154-0752-3d8fc31864d9
 ---
 A problem set for the topic: Stereocontrolled Alkylation and Related Strategies.
-

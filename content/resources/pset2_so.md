@@ -7,6 +7,7 @@ file: /courses/5-512-synthetic-organic-chemistry-ii-spring-2005/6dfb4252658ada90
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: pset2_so.pdf
 uid: 6dfb4252-658a-da90-583a-de1a114c50a6
 ---
 This resource contains the solution to problem set 2: Strategies for Synthesis of Acyclic Molecules Based on Desymmetrization, Chirality Transfer, the "Chiron Approach", and Ring Template Strategies.
-

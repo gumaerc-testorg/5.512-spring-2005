@@ -6,6 +6,7 @@ file: /courses/5-512-synthetic-organic-chemistry-ii-spring-2005/ca9f31fbc84d171b
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: ps5_soln_4_23.pdf
 uid: ca9f31fb-c84d-171b-af65-764aaee3838b
 ---
 This resource contains the solutions to problem set 5: Stereocontrolled Addition to Carbonyl Compounds.
-
