@@ -2,6 +2,7 @@
 content_type: resource
 description: 'A problem set for the topic: Stereochemical Principles.'
 file: /courses/5-512-synthetic-organic-chemistry-ii-spring-2005/ee38ec2af9661788a6e60c6ec8a81a18_prob_set1_2_28_05.pdf
+file_size: 44147
 file_type: application/pdf
 learning_resource_types:
 - Assignments
