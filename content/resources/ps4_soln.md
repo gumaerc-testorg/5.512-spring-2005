@@ -3,6 +3,7 @@ content_type: resource
 description: This file contains the solutions to the practice problems for the first
   exam.
 file: /courses/5-512-synthetic-organic-chemistry-ii-spring-2005/e7169eb254ea24b368573215b85cd3ae_ps4_soln.pdf
+file_size: 158240
 file_type: application/pdf
 learning_resource_types:
 - Assignments

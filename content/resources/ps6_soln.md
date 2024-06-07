@@ -3,6 +3,7 @@ content_type: resource
 description: 'This resource contains the solutions for problem set 6: Stereocontrolled
   Carbonyl Reduction and Aldol Reactions.'
 file: /courses/5-512-synthetic-organic-chemistry-ii-spring-2005/71ad7d56d2015f36041f6771e75b0c9a_ps6_soln.pdf
+file_size: 196627
 file_type: application/pdf
 learning_resource_types:
 - Assignments
