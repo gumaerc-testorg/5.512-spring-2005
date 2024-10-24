@@ -4,7 +4,7 @@ description: 'This assignment includes designing a highly stereoselective synthe
   of the given target molecules beginning with commercially
 
   available materials.'
-file: /courses/5-512-synthetic-organic-chemistry-ii-spring-2005/d72b4e1ef314e7f36d8bf1457db8254a_prob_set7_5_4_05.pdf
+file: /ol-ocw-studio-app/courses/5-512-synthetic-organic-chemistry-ii-spring-2005/d72b4e1ef314e7f36d8bf1457db8254a_prob_set7_5_4_05.pdf
 file_size: 371964
 file_type: application/pdf
 learning_resource_types:
