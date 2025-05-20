@@ -2,7 +2,7 @@
 content_type: resource
 description: 'A problem set used for the topic:  Desymmetrization, Chirality Transfer,
   Chiron Approach and Ring Template Strategies.'
-file: /ol-ocw-studio-app/courses/5-512-synthetic-organic-chemistry-ii-spring-2005/9c826a103549290e488035ae833bc3a6_prob_set2_3_9_05.pdf
+file: /courses/5-512-synthetic-organic-chemistry-ii-spring-2005/9c826a103549290e488035ae833bc3a6_prob_set2_3_9_05.pdf
 file_size: 47036
 file_type: application/pdf
 learning_resource_types:
