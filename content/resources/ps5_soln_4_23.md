@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains the solutions to problem set 5: Stereocontrolled
   Addition to Carbonyl Compounds.'
-file: /courses/5-512-synthetic-organic-chemistry-ii-spring-2005/ca9f31fbc84d171baf65764aaee3838b_ps5_soln_4_23.pdf
+file: /ol-ocw-studio-app/courses/5-512-synthetic-organic-chemistry-ii-spring-2005/ca9f31fbc84d171baf65764aaee3838b_ps5_soln_4_23.pdf
 file_size: 146681
 file_type: application/pdf
 learning_resource_types:

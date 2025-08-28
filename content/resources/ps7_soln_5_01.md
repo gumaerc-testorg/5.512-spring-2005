@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains the solutions to the problem set of the course.
-file: /courses/5-512-synthetic-organic-chemistry-ii-spring-2005/f3acea5bb1560456120a365e5f523b39_ps7_soln_5_01.pdf
+file: /ol-ocw-studio-app/courses/5-512-synthetic-organic-chemistry-ii-spring-2005/f3acea5bb1560456120a365e5f523b39_ps7_soln_5_01.pdf
 file_size: 247917
 file_type: application/pdf
 learning_resource_types:
